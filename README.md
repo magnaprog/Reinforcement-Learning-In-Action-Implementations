@@ -20,7 +20,7 @@ Each file in this repository corresponds to a specific chapter and concept from 
 ### Prerequisites
 
 - Python 3.x
-- MATLAB (version info)
+- MATLAB (2023b)
 - C++ compiler (e.g., GCC, Clang)
 
 ## Contributing
